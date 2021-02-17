@@ -1,1 +1,3 @@
-[The Official Wiki for Civitas](https://github.com/Ethenski/Civitas/wiki)
+![CivitasHeader](https://i.postimg.cc/7YjF7h6Y/banner.png)
+
+[Wiki](https://github.com/Ethenski/Civitas/wiki)
